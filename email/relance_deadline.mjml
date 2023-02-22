@@ -1,0 +1,63 @@
+
+<mjml>
+    <mj-body>
+        <mj-section background-color="#f0f0f0">
+            <mj-column>
+                <mj-image width="100px" src="https://file.diplomeo-static.com/file/00/00/02/10/21010.svg"></mj-image>
+                <mj-divider border-color="#f07d00"></mj-divider>
+                <mj-text color="#f07d00" font-style="italic"
+                   font-size="20px"
+                   font-family="Helvetica Neue"
+                   color='#333'>Bonjour [prénom de l'étudiant],</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#fafafa">
+            <mj-column width="400px">
+
+                <mj-text color="#525252">
+                J'espère que tu vas bien et que tu as pu avancer sur ton projet depuis notre dernier échange
+                </mj-text>
+                <mj-text color="#525252">
+                Je voulais juste te rappeler que la date limite pour le rendu de ton projet approche à grands pas. Il ne te reste plus que quelques jours pour finaliser ton travail et le soumettre avant la deadline
+                </mj-text>
+
+                <mj-text color="#525252">
+                <mj-text color="#525252">
+                Si tu as des questions ou des difficultés, n'hésite pas à me contacter. Je suis là pour t'aider et te guider dans la réalisation de ton projet
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#f07d00">
+            
+            <mj-column width="350px">
+            <mj-text color="#fff">
+                Tu peux utiliser le lien de soumission suivant pour envoyer ton projet
+            </mj-text>
+                <mj-button background-color="#FFF" color="#525252" href="#">
+                Lien du rendu
+                
+                </mj-button>
+            <mj-text font-style="italic" color="#fff">
+                Assure-toi que ton travail est conforme aux exigences de l'évaluation avant de le soumettre.
+            </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section  background-color="#fafafa">
+            <mj-column width="400px">
+                <mj-text color="#525252">
+                    Je tiens à te remercier pour le travail que tu as accompli jusqu'à présent. Je suis convaincu(e) que tu vas réussir à finaliser ton projet dans les temps et à obtenir une excellente note.
+                </mj-text>
+                <mj-text color="#525252">
+                    Bonne chance pour la suite et n'hésite pas à me contacter si tu as besoin d'aide.
+                </mj-text>
+                <mj-text font-style="italic" color="#525252">
+                    Cordialement,
+                </mj-text>
+                <mj-text font-style="italic" color="#525252">
+                    L'administration
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+    
+</mjml>
