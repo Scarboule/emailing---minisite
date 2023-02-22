@@ -1,0 +1,25 @@
+<mjml>
+  <mj-body>   
+  
+  <mj-hero background-color="#ffffff" background-height="400px" background-position="center center" background-url="https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80">
+            <mj-text font-size="40px" font-weight="bold" color="#ffffff" align="center" padding="100px 0">Rediffusion disponible : "UX et développement : Enjeux & suivi Marketing"</mj-text>
+   </mj-hero>
+
+
+    <mj-section background-color="#ffffff">
+      <mj-column>
+      <mj-image src="https://www.iim.fr/ecole-web/wp-content/uploads/2020/10/Logo-IIM-fd-blanc.png" width="100px" align="center" />
+          
+        <mj-text font-size="20px" font-weight="bold" align="center" color="#F07D00">Rediffusion disponible : "UX et développement : Enjeux & suivi Marketing"</mj-text>
+        <mj-divider border-color="#F07D00" />
+        <mj-text font-size="16px" font-weight="normal" color="#000" padding-bottom="20px">Bonjour,</mj-text>
+        <mj-text font-size="16px" font-weight="normal" color="#000" padding-bottom="20px">Nous vous informons que la rediffusion du cours "UX et développement : Enjeux & suivi Marketing" est désormais disponible sur Zoom. Si vous n'avez pas pu assister au cours en direct, vous pouvez accéder à la rediffusion en utilisant le lien ci-dessous :</mj-text>
+        <mj-button href="[Lien Zoom]" background-color="#F07D00">Accéder à la rediffusion</mj-button>
+        <mj-text font-size="16px" font-weight="normal" color="#000" padding-top="20px">Veuillez noter que ce mail est envoyé uniquement aux personnes qui étaient absentes lors du cours en direct. Si vous avez assisté au cours en direct, vous n'avez pas besoin de suivre ce lien.</mj-text>
+        <mj-text font-size="16px" font-weight="normal" color="#000" padding-top="20px">Nous espérons que cette rediffusion vous sera utile pour suivre le cours et rester à jour sur les enjeux et les suivi marketing de l'UX et du développement.</mj-text>
+        <mj-text font-size="16px" font-weight="normal" color="#000" padding-top="20px">Cordialement,</mj-text>
+        <mj-text font-size="16px" font-weight="normal" color="#000" padding-bottom="20px">L'équipe de l'IIM</mj-text>
+      </mj-column>
+
+ </mj-body>
+ </mjml>     

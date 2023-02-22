@@ -1,0 +1,40 @@
+<mjml>
+  <mj-body>
+    
+  <mj-hero background-color="#ffffff" background-height="400px" background-position="center center" background-url="https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80">
+            <mj-text font-size="40px" font-weight="bold" color="#ffffff" align="center" padding="100px 0">Bienvenue au cours "UX et développement : Enjeux & suivi Marketing"</mj-text>
+   </mj-hero>
+
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-divider border-color="#F07D00" />
+        <mj-text font-size="24px" font-weight="bold" font-family="Arial, sans-serif" line-height="30px" padding-bottom="20px" padding-top="20px" text-align="center">
+          Bienvenue au cours "UX et développement : Enjeux & suivi Marketing" !
+        </mj-text>
+        <mj-text font-size="16px" font-weight="normal" font-family="Arial, sans-serif" line-height="24px" padding-bottom="20px" padding-top="0" text-align="left">
+          Cher étudiant,
+        </mj-text>
+        <mj-text font-size="16px" font-weight="normal" font-family="Arial, sans-serif" line-height="24px" padding-bottom="20px" padding-top="0" text-align="left">
+          Nous sommes ravis de vous accueillir dans le cours "UX et développement : Enjeux & suivi Marketing". Ce cours est conçu pour vous aider à comprendre les principaux enjeux liés à l'expérience utilisateur et au développement, ainsi que les meilleures pratiques en matière de suivi marketing.
+        </mj-text>
+        <mj-text font-size="16px" font-weight="normal" font-family="Arial, sans-serif" line-height="24px" padding-bottom="20px" padding-top="0" text-align="left">
+          Avant le début du cours, nous vous recommandons de consulter les ressources suivantes :
+        </mj-text>
+        <mj-button font-size="16px" background-color="#F07D00" color="#ffffff" href="https://docs.google.com/presentation/d/12345678/edit#slide=id.p" padding="15px 30px" border-radius="30px">
+          Lien vers la présentation du cours
+        </mj-button>
+        <mj-button font-size="16px" background-color="#F07D00" color="#ffffff" href="https://www.example.com" padding="15px 30px" border-radius="30px" >
+          Lien vers les lectures recommandées
+        </mj-button>
+        <mj-text font-size="16px" font-weight="normal" font-family="Arial, sans-serif" line-height="24px" padding-bottom="20px" padding-top="20px" text-align="left">
+          Nous vous encourageons également à prendre des notes pendant le cours et à poser des questions au professeur si vous avez des doutes ou des préoccupations.
+        </mj-text>
+        <mj-text font-size="16px" font-weight="normal" font-family="Arial, sans-serif" line-height="24px" padding-bottom="20px" padding-top="20px" text-align="left">
+          Si vous avez des questions, n'hésitez pas à nous contacter par e-mail à l'adresse suivante : cours
+cours@iim.fr. Nous sommes là pour vous aider et pour vous offrir la meilleure expérience d'apprentissage possible.
+</mj-text>
+<mj-divider border-color="#F07D00" />
+</mj-column>
+</mj-section>
+</mj-body>
+</mjml>
