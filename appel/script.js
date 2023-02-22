@@ -17,8 +17,8 @@ btn.addEventListener("click", event =>{
         valid.innerHTML = ("Vous avez été noté présent ");
     }else if(appelState === 0){
         valid.classList.add("is-not");
-        valid.innerHTML = ("L'appel est clôturer.")
+        valid.innerHTML = ("L'appel est clôturé.")
     }else{
-        console.log("Qu'es que je fait ici ?")
+        console.log("Qu'est que je fait ici ?")
     }
 })
