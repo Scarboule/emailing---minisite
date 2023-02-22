@@ -1,0 +1,42 @@
+<mjml>
+    <mj-body>
+        <mj-section>
+            <mj-column>
+                <mj-image
+                        src="https://www.iim.fr/ecole-web/wp-content/uploads/2020/10/Logo-IIM-fd-blanc.png"
+                        alt="Logo"
+                        width="150px"
+                        padding="10px 25px"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text font-size="20px" font-weight="bold" color="#333333" padding="10px 25px">
+                    Confirmation d'enseignement
+                </mj-text>
+                <mj-divider border-color="#f07d00" />
+                <mj-text font-size="16px" color="#333333" padding="10px 25px">
+                    Cher(e) [nom du professeur],<br /><br />
+                    Nous vous écrivons de la part de l'Axe Coding pour confirmer votre disponibilité à enseigner le
+                    cours [nom du cours] dans une semaine.<br /><br />
+                    Nous souhaitons nous assurer que vous êtes toujours partant pour enseigner ce cours et que vous
+                    êtes toujours disponible pour les dates prévues.<br /><br />
+                </mj-text>
+                <mj-button
+                    background-color="#f07d00"
+                    color="white" href="/"
+                    font-size="18px" padding="10px 25px"
+                    align="center"
+                >
+                    Confirmer ma disponibilité
+                </mj-button>
+                <mj-text font-size="16px" color="#333333" padding="10px 25px">
+                    Si vous avez des questions ou des préoccupations, n'hésitez pas à nous contacter.<br /><br />
+                    Cordialement,<br />
+                    Axe Coding
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
