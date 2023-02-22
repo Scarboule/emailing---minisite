@@ -1,0 +1,65 @@
+<mjml>
+    <mj-body>
+        <mj-section>
+            <mj-column>
+                <mj-image
+                        src="https://www.iim.fr/ecole-web/wp-content/uploads/2020/10/Logo-IIM-fd-blanc.png"
+                        alt="Logo"
+                        width="150px"
+                        padding="10px 25px"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text font-size="20px" font-weight="bold" color="#333333" padding="10px 25px">
+                    Informations de cours
+                </mj-text>
+                <mj-divider border-color="#f07d00" />
+                <mj-text font-size="16px" color="#333333" padding="10px 25px">
+                    Cher(e) [nom du professeur],<br /><br />
+                    Nous sommes ravis de vous accueillir en tant que professeur pour le cours [nom du cours]. Ce message
+                    est pour vous fournir les informations nécessaires pour accéder à la réunion de cours.<br /><br />
+                    Le cours aura lieu le [date] à [heure] sur Zoom. Voici le lien de la réunion :<br /><br />
+                </mj-text>
+                <mj-button
+                    background-color="#f07d00"
+                    color="white" href="/"
+                    font-size="18px" padding="10px 25px"
+                    align="center"
+                >
+                    Lien ZOOM
+                </mj-button>
+                <mj-text font-size="16px" color="#333333" padding="10px 25px">
+                    Pour accéder à la réunion, il vous suffit de cliquer sur le lien ci-dessus. Si vous n'avez pas
+                    encore installé l'application Zoom, vous pouvez le faire en cliquant sur le lien ci-dessous :
+                    <br /><br />
+                </mj-text>
+                <mj-button
+                        background-color="#f07d00"
+                        color="white" href="/"
+                        font-size="18px" padding="10px 25px"
+                        align="center"
+                >
+                    Télécharger ZOOM
+                </mj-button>
+                <mj-text font-size="16px" color="#333333" padding="10px 25px">
+                    Pour ouvrir l'appel pour les élèves, vous pouvez cliquer sur le lien ci-dessous :<br /><br />
+                </mj-text>
+                <mj-button
+                        background-color="#f07d00"
+                        color="white" href="/"
+                        font-size="18px" padding="10px 25px"
+                        align="center"
+                >
+                    Lien de l'appel
+                </mj-button>
+                <mj-text font-size="16px" color="#333333" padding="10px 25px">
+                    Si vous avez des questions ou des préoccupations, n'hésitez pas à nous contacter.<br /><br />
+                    Cordialement,<br />
+                    Axe Coding
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>

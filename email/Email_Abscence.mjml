@@ -1,0 +1,35 @@
+<mjml>
+  <mj-body background-color="white" width="600px">
+    <mj-section>
+      <mj-column>
+
+        <mj-image width="100px" src="https://file.diplomeo-static.com/file/00/00/02/10/21010.svg"></mj-image>
+
+        <mj-divider border-color="#f07d00"></mj-divider>
+
+        <mj-text font-size="20px" color="#f07d00" font-family="helvetica">Bonjour [Nom et prénom d'étudiant]</mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    </mj-raw>
+     <mj-section background-color="#fafafa">
+      <mj-column width="400px" >
+        <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262">ABSCENCE</mj-text>
+        <mj-text color="#525252" line-height="20px" >Vous avez été noté comme absent lors du cours[nom du cours]. Afin de justifier votre absence, nous vous prions de bien vouloir remplir le formulaire de justification d'absence en cliquant sur le button ci-dessous </mj-text>
+        <mj-button background-color="#f07d00" href="#">Justification</mj-button>
+
+        <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262">Lien Zoom</mj-text>
+        <mj-text color="#525252" line-height="20px">Vous pouvez accéder à la réunion en cliquant sur le button ci-dessous </mj-text>
+                  <mj-button background-color="#f07d00" href="#">Lien Zoom</mj-button>
+        <mj-text color="#525252" line-height="20px">    Nous espérons vous retrouver bientôt en classe et nous restons à votre disposition pour toute question ou préoccupation que vous pourriez avoir. </mj-text>
+        <mj-text color="#525252">  Cordialement,</mj-text>
+                <mj-text color="#525252"> L'administration </mj-text>
+      </mj-column>
+
+        </mj-section>
+    <mj-raw>
+
+
+  </mj-body >
+</mjml>

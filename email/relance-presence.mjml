@@ -1,0 +1,44 @@
+<mjml>
+    <mj-body>
+        <mj-section>
+            <mj-column>
+                <mj-image
+                        src="https://www.iim.fr/ecole-web/wp-content/uploads/2020/10/Logo-IIM-fd-blanc.png"
+                        alt="Logo"
+                        width="150px"
+                        padding="10px 25px"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text font-size="20px" font-weight="bold" color="#333333" padding="10px 25px">
+                    Rappel : Présence - 5 minutes restantes
+                </mj-text>
+                <mj-divider border-color="#f07d00" />
+                <mj-text font-size="16px" color="#333333" padding="10px 25px">
+                    Cher/Chère [Nom de la personne],<br /><br />
+                    Nous vous rappelons que la présence en ligne pour [nom de l'événement] a commencé il y a 10 minutes
+                    et que vous n'êtes pas encore connecté(e). Il ne vous reste plus que 5 minutes pour vous connecter
+                    et participer à l'événement.<br /><br />
+                    Votre présence est importante pour suivre le contenu de l'événement et pour interagir avec les
+                    autres participants. Nous vous encourageons donc à vous connecter dès que possible en cliquant sur
+                    le bouton ci-dessous.<br /><br />
+                </mj-text>
+                <mj-button
+                    background-color="#f07d00"
+                    color="white" href="/"
+                    font-size="18px" padding="10px 25px"
+                    align="center">Accéder à la présence
+                </mj-button>
+                <mj-text font-size="16px" color="#333333" padding="10px 25px">
+                    Si vous rencontrez des problèmes pour vous connecter ou si vous avez des questions concernant
+                    l'événement, n'hésitez pas à nous contacter ou à contacter le support technique.<br /><br />
+                    Nous espérons que vous pourrez vous connecter à temps pour profiter de cet événement.<br /><br />
+                    Cordialement,<br />
+                    Axe Coding
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
